@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:sample_utils/sample_utils.dart';
+import 'package:simple_utils/simple_utils.dart';
 
 void main() {
   test('transform rgb string to color', () {

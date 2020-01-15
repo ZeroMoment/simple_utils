@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sample_utils/sample_utils.dart';
+import 'package:simple_utils/simple_utils.dart';
 
 void main() => runApp(MyApp());
 

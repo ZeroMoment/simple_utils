@@ -28,7 +28,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  sample_utils:
+  simple_utils:
     path: ../
 
 

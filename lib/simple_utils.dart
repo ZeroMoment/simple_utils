@@ -1,4 +1,4 @@
-library sample_utils;
+library simple_utils;
 
 import 'package:flutter/material.dart';
 

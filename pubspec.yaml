@@ -1,8 +1,8 @@
-name: sample_utils
+name: simple_utils
 description: A new Flutter package.
 version: 0.0.1
 author: lizhiming <wslzm1989@gmail.com>
-homepage: https://github.com/ZeroMoment
+homepage: https://github.com/ZeroMoment/simple_utils
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
